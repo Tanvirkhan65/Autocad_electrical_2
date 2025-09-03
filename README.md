@@ -5,4 +5,5 @@
             # ctrl+0(make screen big),
             # quick access toolbar,quick access toolbar classic menubar
             # op(option)
+            #op(cross hair,selection(grip size)
             
