@@ -13,4 +13,4 @@
             #orthomode on (make line straight)
             #polar tracking(angle line tracking )
 
-##class-2 ==
+## class-2 ==
