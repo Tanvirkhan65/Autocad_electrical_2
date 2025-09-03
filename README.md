@@ -8,3 +8,4 @@
             #op(cross hair,selection(grip size)
             #view(viewcube)
             #viewport control workspace (-) 
+            #view control
