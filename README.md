@@ -9,3 +9,4 @@
             #view(viewcube)
             #viewport control workspace (-) 
             #view control
+            #viewport control,view controls,visual style control
