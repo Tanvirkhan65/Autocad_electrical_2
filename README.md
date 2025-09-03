@@ -6,4 +6,5 @@
             # quick access toolbar,quick access toolbar classic menubar
             # op(option)
             #op(cross hair,selection(grip size)
+            #view(viewcube)
             
