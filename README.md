@@ -5,12 +5,20 @@
             # ctrl+0(make screen big),
             # quick access toolbar,quick access toolbar classic menubar
             # op(option)
-            #op(cross hair,selection(grip size)
-            #view(viewcube)
-            #viewport control workspace (-) 
-            #view control
-            #viewport control,view controls,visual style control
-            #orthomode on (make line straight)
-            #polar tracking(angle line tracking )
+            # op(cross hair,selection(grip size)
+            # view(viewcube)
+            # viewport control workspace (-) 
+            # view control
+            # viewport control,view controls,visual style control
+            # orthomode on (make line straight)
+            # polar tracking(angle line tracking )
 
 ## class-2 ==
+            # circle
+            # line
+            # pan
+            # zoom comand all,object
+            # object snap
+            # regen
+            # erase
+            # move
