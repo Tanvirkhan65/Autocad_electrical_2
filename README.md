@@ -28,4 +28,7 @@
             # units
 ## class-4 == 
             # ARC
+            # MOVE 
+            # COPY(ARRAY)
+            # TRIM,EXTEND,MIRROR
             
