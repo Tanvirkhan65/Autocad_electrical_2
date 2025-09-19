@@ -31,5 +31,5 @@
             # MOVE 
             # COPY(ARRAY)
             # TRIM,EXTEND,MIRROR
-            # POLYLINE(HALFWIDTH,
+            # POLYLINE(HALFWIDTH,WIDTH,ARC(RADIOUS),
             
