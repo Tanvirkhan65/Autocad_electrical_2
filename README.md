@@ -32,5 +32,5 @@
             # COPY(ARRAY)
             # TRIM,EXTEND,MIRROR
             # POLYLINE(HALFWIDTH,WIDTH,ARC(RADIOUS),
-            # POLYGON(inscribed, circumscribed)
+            # POLYGON(inscribed, circumscribed)  note if panel nut m6 then hole should 6.5
             
