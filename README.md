@@ -32,4 +32,5 @@
             # COPY(ARRAY)
             # TRIM,EXTEND,MIRROR
             # POLYLINE(HALFWIDTH,WIDTH,ARC(RADIOUS),
+            # POLYGON(inscribed, circumscribed)
             
