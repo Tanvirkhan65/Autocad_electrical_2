@@ -34,4 +34,6 @@
             # POLYLINE(HALFWIDTH,WIDTH,ARC(RADIOUS),
             # POLYGON(inscribed, circumscribed)  note if panel nut m6 then hole should 6.5,m6 head 10mm,washer spring,plane thickness(1.2,1.3),washer dia 10/12
             # spline(control vertex,fit)
+## class-5 ==
+            # Rectangle(point,dimentions,Area,Rotation)
             
