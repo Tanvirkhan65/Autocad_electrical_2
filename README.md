@@ -36,5 +36,5 @@
             # spline(control vertex,fit)
 ## class-5 ==
             # Rectangle(point,dimentions,Area,Rotation)
-            # Rect(area,fillet,chamfer,thickness,width)
+            # Rect(area,fillet,chamfer,thickness,width,elevation)
             
