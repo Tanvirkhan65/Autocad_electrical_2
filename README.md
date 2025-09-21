@@ -40,5 +40,6 @@
             # Rotate(referance,point,copy)
 ## class-6 ==
             # Point,Multiple point,point style
+            # Divide(always ask segment)
             
 
