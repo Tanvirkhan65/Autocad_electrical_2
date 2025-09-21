@@ -37,4 +37,5 @@
 ## class-5 ==
             # Rectangle(point,dimentions,Area,Rotation)
             # Rect(area,fillet,chamfer,thickness,width,elevation)
+            # Rotate(referance,point,copy)
             
