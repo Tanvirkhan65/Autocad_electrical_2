@@ -41,5 +41,6 @@
 ## class-6 ==
             # Point,Multiple point,point style
             # Divide(always ask segment)
+            # Measure(always ask length of segment)
             
 
