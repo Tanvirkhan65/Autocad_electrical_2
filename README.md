@@ -42,5 +42,7 @@
             # Point,Multiple point,point style
             # Divide(always ask segment)
             # Measure(always ask length of segment)
+            # Scale(copy,referance,point)
+            # Strech 
             
 
