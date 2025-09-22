@@ -43,6 +43,6 @@
             # Divide(always ask segment)
             # Measure(always ask length of segment)
             # Scale(copy,referance,point)
-            # Strech 
+            # Strech (full selection move,half selection strech)
             
 
