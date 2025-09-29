@@ -48,5 +48,5 @@
             # Fillet(pollyline,radius,Trim,Multiple)
             # Chamfer(polyline,distance,angle,Trim,method(distance,angle same as outside),multiple)
             # Blend curves(join to spline smoothly) edit vertex (add,delete)
-            # Lengthen(Delta,Percent,Total,Dynamic)
+            # Lengthen(Delta,Percent,Total,Dynamic) lengthen only valid for line
 
