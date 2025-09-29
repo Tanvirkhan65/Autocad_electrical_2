@@ -44,5 +44,8 @@
             # Measure(always ask length of segment)
             # Scale(copy,referance,point)
             # Strech (full selection move,half selection strech)
+## class-7 == 
+            # Fillet(pollyline,radius,Trim,Multiple)
+            # Chamfer(polyline,distance,angle,Trim,method,multiple)
             
 
