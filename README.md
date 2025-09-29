@@ -51,5 +51,5 @@
             # Lengthen(Delta,Percent,Total,Dynamic) lengthen only valid for line
             # Break(break with point)
             # Break at point
-            # Align
+            # Align (in modify tool)
 
