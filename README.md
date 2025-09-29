@@ -52,4 +52,5 @@
             # Break(break with point)
             # Break at point
             # Align (in modify tool)
+            # whipeout(Frames,polyline)
 
