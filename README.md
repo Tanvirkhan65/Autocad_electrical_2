@@ -48,5 +48,5 @@
             # Fillet(pollyline,radius,Trim,Multiple)
             # Chamfer(polyline,distance,angle,Trim,method(distance,angle same as outside),multiple)
             # Blend curves(join to spline smoothly) edit vertex (add,delete)
-            
+            # Lengthen(Delta,Percent,Total,Dynamic)
 
