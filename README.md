@@ -54,5 +54,5 @@
             # Align (in modify tool)
             # whipeout(Frames,polyline)
 ## class-8 ==
-            # Properties toolbar
+            # Properties toolbar(color,lineweight,linetype,line scale,,match properties,list,transperancy)
 
