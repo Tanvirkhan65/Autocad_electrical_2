@@ -53,4 +53,6 @@
             # Break at point
             # Align (in modify tool)
             # whipeout(Frames,polyline)
+## class-8 ==
+            # Property toolbar
 
