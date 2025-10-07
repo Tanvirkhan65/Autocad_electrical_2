@@ -56,5 +56,7 @@
 ## class-8 ==
             # Properties toolbar(color,lineweight,linetype,line scale,,match properties,list,transperancy)
 ## class-9 == 
-            # utilities tools-> mesure(quick,distance,angle,radius,area,volume)
+            # utilities tools-> 
+            # mesure(quick,distance,angle,radius,area,volume)
+            # select all
 
