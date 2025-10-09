@@ -70,6 +70,6 @@
 ## class-11 == 
             # Array rectangular array (column size,spacecing,row size spaceing)
             # only row have incremental elevation(shift+pan) isometric view
-            
+            # incremental elevation have level 
 
 
