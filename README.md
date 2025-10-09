@@ -61,8 +61,10 @@
             # select all
             # id point,point style
             # quick select
-            #ctrl+z undo,ctrl+redo
+            # ctrl+z undo,ctrl+redo
 ## class-10 == 
-            #single line text(properties all option try)
+            # single line text(properties all option try)editing option limited
+            # multiline all text editing option available like msword 
+            # comvert single line text to multiline text
 
 
