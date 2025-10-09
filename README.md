@@ -69,6 +69,7 @@
             # convert multi line text to single line text (simplty using explode)
 ## class-11 == 
             # Array rectangular array (column size,spacecing,row size spaceing)
-            # only row have incremental elevation
+            # only row have incremental elevation(shift+pan) isometric view
+            
 
 
