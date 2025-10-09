@@ -62,5 +62,7 @@
             # id point,point style
             # quick select
             #ctrl+z undo,ctrl+redo
+## class-10 == 
+            #single line text(no editing)
 
 
