@@ -67,5 +67,8 @@
             # multiline all text editing option available like msword 
             # convert single line text to multiline text(express tool -> convert to mtext)
             # convert multi line text to single line text (simplty using explode)
+## class-11 == 
+            # Array rectangular array (column size,spacecing,row size spaceing)
+            # only row have incremental elevation
 
 
