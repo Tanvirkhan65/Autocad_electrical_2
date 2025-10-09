@@ -60,4 +60,7 @@
             # mesure(quick,distance,angle,radius,area,volume)
             # select all
             # id point,point style
+            # quick select
+            #ctrl+z undo,ctrl+redo
+
 
