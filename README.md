@@ -65,6 +65,7 @@
 ## class-10 == 
             # single line text(properties all option try)editing option limited
             # multiline all text editing option available like msword 
-            # comvert single line text to multiline text
+            # convert single line text to multiline text(express tool -> convert to mtext)
+            # convert multi line text to single line text (simplty using explode)
 
 
