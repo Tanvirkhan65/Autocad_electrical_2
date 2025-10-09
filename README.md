@@ -63,6 +63,6 @@
             # quick select
             #ctrl+z undo,ctrl+redo
 ## class-10 == 
-            #single line text(no editing)
+            #single line text(properties all option try)
 
 
