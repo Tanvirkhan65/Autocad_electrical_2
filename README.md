@@ -83,6 +83,6 @@
             if select source object then entire array change
 
             polar array
-            # for circular path array(items,fill angle
+            # for circular path array(items,fill angle,fill angle between distance
 
 
