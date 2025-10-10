@@ -74,7 +74,8 @@
             # Array base point transfer
             # associtive(array by default associative),for dissociative we should use explode
             # associative array only can use in array edit 
-<ins> array Edit </ins> 
-            # source 
+            
+             array Edit 
+            # source source change reflect whole array after change source we need to put command arrayclose
 
 
