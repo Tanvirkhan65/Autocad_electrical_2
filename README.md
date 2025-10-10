@@ -71,5 +71,7 @@
             # Array rectangular array (column size,spacecing,row size spaceing)
             # only row have incremental elevation(shift+pan) isometric view -> incremental elevation we only change distance
             # incremental elevation have level for level we use how many level we need and space between level
+            # Array base point transfer
+            # associtive
 
 
