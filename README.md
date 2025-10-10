@@ -77,6 +77,7 @@
             
              array Edit 
             # source source change reflect whole array after change source we need to put command arrayclose
-            # replace
+            # replace(if base point select array default base point then object move and replace )  if base point select source base point then which array element selected this one only change
+            if select source object then entire array change
 
 
