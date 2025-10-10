@@ -73,5 +73,6 @@
             # incremental elevation have level for level we use how many level we need and space between level
             # Array base point transfer
             # associtive(array by default associative),for dissociative we should use explode
+            # associative array only can use in array edit 
 
 
