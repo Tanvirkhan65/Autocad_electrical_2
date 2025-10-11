@@ -86,5 +86,6 @@
             # for circular path array(items,fill angle,fill angle between distance,rotate items)
 ## class-12 == layer
             # 0 layer and dimention def layer bydefault cant edit cant change 
-            (o layer,def layer,current layer,yref layer,layer containing object cant delete
+            (o layer,def layer,current layer,yref layer,layer containing object cant delete)
+            # layer on,off,lock
             
