@@ -88,4 +88,5 @@
             # 0 layer and dimention def layer bydefault cant edit cant change 
             (o layer,def layer,current layer,yref layer,layer containing object cant delete)
             # layer on,off,lock,print off,line weight,linetype,transperancy
+            # layer import export
             
