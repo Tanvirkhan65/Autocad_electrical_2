@@ -92,3 +92,13 @@
             # layer filter,group filter
 ## class-13 == 
             # annotate(center mark)
+            # give all dimention 
+            Linear
+            Aligned
+            Angular 
+            Arc Length 
+            Radius
+            Diameter
+            Ordinate 
+            (Leader, Add Leader, Remove Leader) 
+            (Measure)
