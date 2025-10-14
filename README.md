@@ -102,3 +102,6 @@
             Ordinate 
             (Leader, Add Leader, Remove Leader) 
             (Measure)
+## class-14 == 
+            # dimention style
+            # line,symbols & arrows,text, fit,primary units,alternate unit,tolerance
