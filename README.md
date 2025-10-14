@@ -93,13 +93,15 @@
 ## class-13 == 
             # annotate(center mark)
             # give all dimention 
-            Linear
-            Aligned
-            Angular 
-            Arc Length 
-            Radius
-            Diameter
-            Ordinate 
-            (Leader, Add Leader, Remove Leader) 
-            (Measure)
-            triangular line or spline mesure by list command it should be polyline
+            # Linear
+            # Aligned
+            # Angular 
+            # Arc Length 
+            # Radius
+            # Diameter
+            # Ordinate 
+            # (Leader, Add Leader, Remove Leader) 
+            # (Measure)
+            # triangular line or spline mesure by list command it should be polyline
+## class-14 == 
+            # dimention style 
