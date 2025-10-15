@@ -107,3 +107,4 @@
             # line,symbols & arrows,text, fit,primary units,alternate unit,tolerance
             # important unit-> mesurement scale(if dimention 100 in drawing its multiply by factor and showing multiply value )
             # important FIT-> scale for dimention features > USE OVERALL SCALE OF If the dimention value 100 its not change but its getting bigger by multiply of factor setting
+            # important alternate units
