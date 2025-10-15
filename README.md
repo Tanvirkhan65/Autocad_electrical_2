@@ -110,3 +110,5 @@
             # important alternate units
             # tolerance command (TOL)
             # style override (minor change in whole style)
+## class-15 ==
+            # Table,Table style
