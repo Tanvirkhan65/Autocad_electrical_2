@@ -114,4 +114,4 @@
             # Table,Table style
             # for multiple table cell select use shift+mouse left
             # insert table data-link from excel imported data will be locked and link with excel file any change in excel reflect to autocad 
-            # data extraction before data extraction we must save drwaing. data extraction jobs whatever object drawing we create in autocad all data or perticular selected object data can be extracted from autocad to excel table 
+            # data extraction before data extraction we must save drwaing. data extraction jobs whatever object drawing we create in autocad all data or perticular selected object data can be extracted from autocad to autocad and autocad to excel.
