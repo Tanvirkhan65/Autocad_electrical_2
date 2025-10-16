@@ -113,3 +113,4 @@
 ## class-15 ==
             # Table,Table style
             # for multiple table cell select use shift+mouse left
+            # insert table data-link from excel imported data will be locked and link with excel file any change in excel reflect to autocad 
