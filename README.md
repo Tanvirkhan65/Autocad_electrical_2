@@ -112,3 +112,4 @@
             # style override (minor change in whole style)
 ## class-15 ==
             # Table,Table style
+            # for multiple table cell select use shift+mouse left
