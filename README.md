@@ -121,4 +121,4 @@
             # convert to block -> source object becomming block
             # retain-> source object is not converted to block but its copy become block
             # delete-> onscreen object will be deleted but the copy of object become block
-            # block behavior
+            # block behavior allowed or not allowed explode
