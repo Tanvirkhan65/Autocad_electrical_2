@@ -119,3 +119,4 @@
 ## class-16 == 
             # Block(create block,pick point selection,convert to block
             # convert to block source object becomming block
+            # source object is not converted to block but its copy become block
