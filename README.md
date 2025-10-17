@@ -117,4 +117,5 @@
             # data extraction before data extraction we must save drwaing. data extraction jobs whatever object drawing we create in autocad all data or perticular selected object data can be extracted from autocad to autocad and autocad to excel.
             # table dimention style for data,header,title->general,text,border
 ## class-16 == 
-            # Block(create block,pick point selection,convert to block,)
+            # Block(create block,pick point selection,convert to block
+            # convert to block source object becomming block
