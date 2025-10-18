@@ -124,3 +124,4 @@
             # block behavior allowed or not allowed explode,scale/uniform allowed/not allowed
             # block unit inch/mm converted automatic
             # adding hyperlink in block.To see the hyperlink we have to press ctrl+object
+            # WBLOCK write block for save file permanent
