@@ -127,3 +127,4 @@
             # WBLOCK write block for save file permanent
 # class-17 == dynamic block
             # DC design center shortcut
+            # TP Toolpalates shortcut
