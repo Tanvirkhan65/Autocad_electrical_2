@@ -128,4 +128,4 @@
 # class-17 == dynamic block
             # DC design center shortcut
             # TP Toolpalates shortcut
-            # dynamic block parameter,action
+            # dynamic block parameters,actions
