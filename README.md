@@ -129,3 +129,4 @@
             # DC design center shortcut
             # TP Toolpalates shortcut
             # dynamic block parameters,actions
+# class-18 == attributes,edit attributes
