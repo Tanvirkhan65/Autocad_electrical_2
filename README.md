@@ -131,3 +131,5 @@
             # dynamic block parameters,actions
 # class-18 == attributes,edit attributes
             # ATTRIBUTES NAME FIELD OR INFORMATION FIELD IN DRAWING AUTOMATIC VALUE TAKING
+# class-19 == hatch
+            #
