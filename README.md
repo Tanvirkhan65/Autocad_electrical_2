@@ -132,4 +132,4 @@
 # class-18 == attributes,edit attributes
             # ATTRIBUTES NAME FIELD OR INFORMATION FIELD IN DRAWING AUTOMATIC VALUE TAKING
 # class-19 == hatch
-            # Type, pattern, color, swatch(hatch background),angle,scale,draw order(bring to front,bring to back)
+            # Type, pattern, color, swatch(hatch background),angle,scale,draw order(bring to front,bring to back),selection cycle
