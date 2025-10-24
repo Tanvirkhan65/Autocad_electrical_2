@@ -133,3 +133,5 @@
             # ATTRIBUTES NAME FIELD OR INFORMATION FIELD IN DRAWING AUTOMATIC VALUE TAKING
 # class-19 == hatch
             # Type, pattern, color, swatch(hatch background),angle,scale,draw order(bring to front,bring to back),selection cycle
+            # associative hath automatic change by shape,non associative hatch cant change by shape.
+            # create separate hatch, non separate hatch
