@@ -135,3 +135,4 @@
             # Type, pattern, color, swatch(hatch background),angle,scale,draw order(bring to front,bring to back),selection cycle
             # associative hath automatic change by shape,non associative hatch cant change by shape.
             # create separate hatch, non separate hatch
+            # hatch open boundary tolerance
