@@ -140,4 +140,4 @@
             # hatch origin(select origin hatch start from there)
             # hatch boundary (remove or ignore boundary by selected line,polyline,circle etc)
             # gradient haatch
-            # express tools -> super hatch custom hatch making with image,href,whipeout,block
+            # express tools -> super hatch custom hatch making with image,href,whipeout,block(important)
