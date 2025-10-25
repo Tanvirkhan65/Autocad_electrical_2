@@ -138,3 +138,4 @@
             # hatch open boundary tolerance(gap tolerance)
             # hatch island detection
             # hatch origin(select origin hatch start from there)
+            # hatch boundary (remove or ignore boundary by selected line,polyline,circle etc)
