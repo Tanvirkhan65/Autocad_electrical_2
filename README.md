@@ -136,3 +136,4 @@
             # associative hath automatic change by shape,non associative hatch cant change by shape.
             # create separate hatch, non separate hatch
             # hatch open boundary tolerance(gap tolerance)
+            # hatch island detection
