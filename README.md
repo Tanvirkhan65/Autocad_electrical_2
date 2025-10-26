@@ -141,3 +141,5 @@
             # hatch boundary (remove or ignore boundary by selected line,polyline,circle etc)
             # gradient haatch
             # express tools -> super hatch custom hatch making with image,href,whipeout,block(important)
+# class-20 == External Reference (xref)
+            # xref attachment -> can not change the original drawing do somthing on original drawing.
