@@ -144,3 +144,5 @@
 # class-20 == External Reference (xref)
             # xref attachment -> can not change the original drawing do somthing on original drawing.
             # xref overlay -> only the changes will be shown to next user.
+            # xbind -> from orginal drawing layer,block ,linetype ,dimention style can transfer to second drwaing 
+            from second drawing xbind command after transfer what is need 
