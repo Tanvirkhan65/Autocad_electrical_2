@@ -158,3 +158,7 @@
             # colinear
             # concentric
             # fix
+            # parallel 
+            # perpendicular 
+            # horizontal
+            # vertical
