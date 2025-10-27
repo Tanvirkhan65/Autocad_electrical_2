@@ -154,3 +154,7 @@
 # class-22 == parametric constrain
             # parents child relation if we want 2 line want alawasy be same like 90 the select first line point and second line point then second line 
             point come to first line point connect togather angle 90 degree remain 90 degree always called parametric constrain
+            # conincident
+            # colinear
+            # concentric
+            # fix
