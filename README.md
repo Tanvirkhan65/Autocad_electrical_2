@@ -162,3 +162,4 @@
             # perpendicular 
             # horizontal
             # vertical
+            # tangent
