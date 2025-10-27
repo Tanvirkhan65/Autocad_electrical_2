@@ -163,3 +163,5 @@
             # horizontal
             # vertical
             # tangent
+            # smooth 
+            # symmetric
