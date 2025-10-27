@@ -146,3 +146,8 @@
             # xref overlay -> only the changes will be shown to next user.
             # xbind -> from orginal drawing layer,block ,linetype ,dimention style can transfer to second drwaing 
             from second drawing xbind command after transfer what is need 
+# class-21 == annotation
+            # On screen scale original value remain same but change the screen ratio. for show the effect we need to eneble 3 annotative option bottom of the screen
+            1. show annotation object
+            2. add scale to annotative object
+            3. annotation scale of the current view 
