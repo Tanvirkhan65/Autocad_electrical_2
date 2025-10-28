@@ -174,4 +174,5 @@
 ## class-23 == dimentional constrain
             # if we add dimentional constrain it will automatic change the dimention of object according to our value
             # one object one dimentinal constrain applied
+            # normal dimention convert to dimentional constrain
             
