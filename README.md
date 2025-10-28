@@ -165,3 +165,4 @@
             # tangent
             # smooth 
             # symmetric
+            # equal
