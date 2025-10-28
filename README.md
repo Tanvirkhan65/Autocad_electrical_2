@@ -169,3 +169,4 @@
             # auto constrain -> making object automatic become constrain if we select auto constrain after making object
             # show and hide auto constrain
             # delete constrain
+            # express tool -> enclosed in object make circle,slot,rectangle around object,text etc
