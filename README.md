@@ -171,3 +171,5 @@
             # delete constrain
             # express tool -> enclosed in object make circle,slot,rectangle around object,text etc
             # express tool -> ARC aligned text around arc 
+## class-23 == dimentional constrain
+            
