@@ -172,4 +172,5 @@
             # express tool -> enclosed in object make circle,slot,rectangle around object,text etc
             # express tool -> ARC aligned text around arc 
 ## class-23 == dimentional constrain
+            # if we add dimentional constrain it will automatic change the dimention of object according to our value
             
