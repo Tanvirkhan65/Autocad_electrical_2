@@ -176,4 +176,4 @@
             # one object one dimentinal constrain applied
             # normal dimention convert to dimentional constrain
             # delete constrain
-            
+            # infer constrain
