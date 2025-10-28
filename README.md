@@ -170,3 +170,4 @@
             # show and hide auto constrain
             # delete constrain
             # express tool -> enclosed in object make circle,slot,rectangle around object,text etc
+            # express tool -> ARC aligned 
