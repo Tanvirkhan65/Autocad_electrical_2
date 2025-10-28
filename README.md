@@ -166,3 +166,4 @@
             # smooth 
             # symmetric
             # equal
+            # auto constrain -> making object automatic become constrain if we select auto constrain after making object
