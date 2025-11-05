@@ -183,3 +183,5 @@
 ## class-24 == PRINT,TCOUNT
             # plot -> plot option
             # TCOUNT -> selected copy object give numbering by order
+## class-25 == PROJECT,PROJECT SETTNGS
+            # copy settings from project file will define the standard of NFPA,IEC,IEEE ETC
