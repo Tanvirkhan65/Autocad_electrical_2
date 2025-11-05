@@ -186,4 +186,4 @@
 ## class-25 == PROJECT,PROJECT SETTNGS
             # copy settings from project file will define the standard of NFPA,IEC,IEEE ETC
 ## class-26 == project properties
-            # componets -> components tag format -> %F%N -> % F COMPONENTS NAME LIKE CB %N COMPONENTS REFERANCE LIKE 203/1C
+            # componets -> components tag format -> %F%N%S -> % F COMPONENTS NAME LIKE CB %N COMPONENTS REFERANCE LIKE 203/1C %S sheet
