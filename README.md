@@ -191,3 +191,4 @@
             # wire number %N componet reference
 ## class-27 == wire
             # wire ->wire,wire degree,wire gap,(interconnected componnets)
+            # trim wire
