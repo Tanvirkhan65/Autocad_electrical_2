@@ -202,3 +202,4 @@
                                      2.tag all (in drawing all number will be tagged automatically) 
                             wire tag mode -> sequential (by default 1/2/3 like this)
                                              line reference (take from line reference)   
+                            format override ->we can change by %f,%n componnets name or components referane
