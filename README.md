@@ -190,4 +190,4 @@
             # project wide update/retag any ching change need to update 
             # wire number %N componet reference
 ## class-27 == wire
-            # wire ->wire,wire degree
+            # wire ->wire,wire degree,wire gap,(interconnected componnets)
