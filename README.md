@@ -200,5 +200,5 @@
             wire numbers
             wire tagging -> to do -> 1.tag new/un number only (only new wire or un number will be tagged)
                                      2.tag all (in drawing all number will be tagged automatically) 
-            
-                                    
+                            wire tag mode -> sequential (by default 1/2/3 like this)
+                                             line reference (take from line reference)   
