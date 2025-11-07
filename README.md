@@ -189,7 +189,7 @@
             # componets -> components tag format -> %F%N%S -> % F COMPONENTS NAME LIKE CB %N COMPONENTS REFERANCE LIKE 203/1C %S sheet
             # project wide update/retag any ching change need to update 
             # wire number %N componet reference
-## class-27 == wire
+## class-27 ==  (WIRE,TRIM WIRE,WIRE NO,EDIT WIRE NO, MULTIPLE BUS, STRETCH WIRE NO)
             # wire ->wire,wire degree,wire gap,(interconnected components)
             # trim wire
             # multiple bus ->       empty space go horizontal
