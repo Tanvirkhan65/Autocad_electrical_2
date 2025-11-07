@@ -196,4 +196,5 @@
                                     empty space ho vertical in command f for wire flip
                                     components multiple wire(select point of components and drag)
                                     another multiple bus -> take clable from another multiple buses
+            # strech wire -> select wire end location then select wire which one strech
                                     
