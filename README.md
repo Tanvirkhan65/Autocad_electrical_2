@@ -195,4 +195,5 @@
             # multiple bus ->       empty space go horizontal
                                     empty space ho vertical in command f for wire flip
                                     components multiple wire(select point of components and drag)
+                                    another multiple bus -> take clable from another multiple buses
                                     
