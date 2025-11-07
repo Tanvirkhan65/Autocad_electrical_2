@@ -192,3 +192,4 @@
 ## class-27 == wire
             # wire ->wire,wire degree,wire gap,(interconnected componnets)
             # trim wire
+            # multiple bus -> empty space go horizontal,empty space ho vertical in command f for wire flip
