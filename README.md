@@ -197,4 +197,8 @@
                                     components multiple wire(select point of components and drag)
                                     another multiple bus -> take clable from another multiple buses
             # strech wire -> select wire end location then select wire which one strech
+            wire numbers
+            wire tagging -> to do -> 1.tag new/un number only (only new wire or un number will be tagged)
+                                     2.tag all (in drawing all number will be tagged automatically) 
+            
                                     
