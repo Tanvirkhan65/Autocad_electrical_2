@@ -212,3 +212,4 @@
             ## PLC/IO
             ## EDIT WIRE NUMBER
 ## class-30 == create/edit wire type,change/convert wire type
+            # CREATE WIRE -> WIRE COLOR,SIZE,WIRE NUMBERING,LAYER -> %C_%S (%C FOR COLOR  %S FOR SIZE)
