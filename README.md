@@ -211,4 +211,4 @@
 
             ## PLC/IO
             ## EDIT WIRE NUMBER
-                            
+## class-30 == create/edit wire type,change/convert wire type
