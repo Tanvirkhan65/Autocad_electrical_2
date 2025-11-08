@@ -215,3 +215,4 @@
             # CREATE WIRE -> WIRE COLOR,SIZE,WIRE NUMBERING,LAYER -> %C_%S (%C FOR COLOR  %S FOR SIZE),Line to convert wire,default wire
             polyline cant be change to wire.
             # delete wire number -> use ACADE electrical delete,normal delete have some problem
+            # copy wire number
