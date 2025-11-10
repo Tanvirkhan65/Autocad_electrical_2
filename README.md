@@ -223,4 +223,5 @@
             # scoot,move components
             # wire sequence only work in active project
             # wire sequence show the wire flow
-## class-31 ==
+## class-31 == (Scoot, move component, wire no leader, insert wire color/gauge labels, in line wire labels, wire trouble shooting)
+            # 
