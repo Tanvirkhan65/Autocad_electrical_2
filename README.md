@@ -227,3 +227,4 @@
             # wire number leader -> cable after wire number select then show the leader
             # wire color/gauge labels -> leader with leader / auto and manual with align
             # inline wire label -> cable color/number can insert
+            # insert ladder all option check (important)
