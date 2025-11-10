@@ -222,3 +222,4 @@
             # toggle wire number -> 1 press become inline wire number another press become top side wire number
             # scoot,move components
             # wire sequence only work in active project
+            # wire sequence show the wire flow
