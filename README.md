@@ -219,3 +219,4 @@
             # copy wire number,copy wire number in-line,adjust inline wire/gap
             # move wire number -> normal move number could be place any cable but acade move only working on same cable
             # flip wire number -> flip between cable up down
+            # toggle wire number -> 1 press become inline wire number another press become top side wire number
