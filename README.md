@@ -211,7 +211,7 @@
 
             ## PLC/IO
             ## EDIT WIRE NUMBER
-## class-30 == create/edit wire type,change/convert wire type
+## class-30 ==  (Create Edit wire Type, Change Convert Wire Type, wire no, Copy Wire No, Copy wire no(in line),delete, move , flip wire no, toggle wire no in line, Wire Sequence, show wire sequence)
             # CREATE WIRE -> WIRE COLOR,SIZE,WIRE NUMBERING,LAYER -> %C_%S (%C FOR COLOR  %S FOR SIZE),Line to convert wire,default wire
             polyline cant be change to wire.
             # delete wire number -> use ACADE electrical delete(select delete wire and select the cable all wire number in cable will be deleted),normal delete have some problem
@@ -223,3 +223,4 @@
             # scoot,move components
             # wire sequence only work in active project
             # wire sequence show the wire flow
+## class-31 ==
