@@ -220,3 +220,4 @@
             # move wire number -> normal move number could be place any cable but acade move only working on same cable
             # flip wire number -> flip between cable up down
             # toggle wire number -> 1 press become inline wire number another press become top side wire number
+            # scoot,move components
