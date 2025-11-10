@@ -225,4 +225,5 @@
             # wire sequence show the wire flow
 ## class-31 == (Scoot, move component, wire no leader, insert wire color/gauge labels, in line wire labels, wire trouble shooting)
             # wire number leader -> cable after wire number select then show the leader
-            # wire color/gauge labels -> leader with leader / auto and manual
+            # wire color/gauge labels -> leader with leader / auto and manual with align
+            # inline wire label -> cable color/number can insert
