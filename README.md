@@ -218,3 +218,4 @@
             in normal autocad delete after delete any component wire gap remain autocad electrical delete wire gap will be closed
             # copy wire number,copy wire number in-line,adjust inline wire/gap
             # move wire number -> normal move number could be place any cable but acade move only working on same cable
+            # flip wire number -> flip between cable up down
