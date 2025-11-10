@@ -228,3 +228,4 @@
             # wire color/gauge labels -> leader with leader / auto and manual with align
             # inline wire label -> cable color/number can insert
             # insert ladder all option check (important)
+            # wire troubleshooting ->
