@@ -221,3 +221,4 @@
             # flip wire number -> flip between cable up down
             # toggle wire number -> 1 press become inline wire number another press become top side wire number
             # scoot,move components
+            # wire sequence only work in active project
