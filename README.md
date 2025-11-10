@@ -229,3 +229,6 @@
             # inline wire label -> cable color/number can insert
             # insert ladder all option check (important)
             # wire troubleshooting -> show wire,show wire number block origin points,show pointer to wire number
+            # check/trace wire for electrically connected or not checking
+            # flip wire gap
+            # delete wire gap
