@@ -232,3 +232,4 @@
             # check/trace wire for electrically connected or not checking
             # flip wire gap
             # delete wire gap
+            # check repair/gap pointer
