@@ -236,4 +236,4 @@
 ## class-32 == (Move, scoot, stretch, convert ladder, Add Rung, Revise Ladder, Renumber Ladder)
             # add rung 
             # revise ladder (on going project can modify ladder)
-            # renumber ladder referance
+            # renumber ladder referance -> all drawing or drawing wise numbering ladder
