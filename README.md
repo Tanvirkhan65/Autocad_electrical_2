@@ -243,3 +243,4 @@
             ### very important 
             every attributes based work should be done in single line text even autocad making lader with text should be single line 
             text otherwise we cant convert it to autocad electrical ladder logic
+            autocad electrical database only know single line text
