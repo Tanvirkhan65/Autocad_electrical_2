@@ -240,3 +240,6 @@
             # strech ladder normal strech command
             # scoot for ladder strech
             # ladder is not component so component move not working need to use normal move 
+            ### very important 
+            every attributes based work should be done in single line text even autocad making lader with text should be single line 
+            text otherwise we cant convert it to autocad electrical ladder logic
