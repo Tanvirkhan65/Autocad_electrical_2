@@ -233,3 +233,7 @@
             # flip wire gap
             # delete wire gap
             # check repair/gap pointer
+## class-32 == (Move, scoot, stretch, convert ladder, Add Rung, Revise Ladder, Renumber Ladder)
+            # add rung 
+            # revise ladder (on going project can modify ladder)
+            # renumber ladder referance
