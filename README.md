@@ -247,3 +247,4 @@
             # convertion tool -> normal line used to make ladder convert to ladder and all line make to wire 
 ## class-33 ==  (Source & Destination Arrows, Fan IN Source, Fan OUT Destination)
             # source arrow & destination arrow -> wire source and destination in drwing and entire project
+            # FAN IN SOURCE/FAN IN OUT CAN SHOW THE MULTIPLE BUS IN SINGLE LINE 
