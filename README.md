@@ -249,3 +249,5 @@
             # source arrow & destination arrow -> wire source and destination in drwing and entire project
             # FAN IN SOURCE/FAN IN OUT CAN SHOW THE MULTIPLE BUS IN SINGLE LINE 
             # Referance only arrow for manual set referance only
+## class-34 == (XY Grid setup, Reference no setup, Standard selection)
+            #
