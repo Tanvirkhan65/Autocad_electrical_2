@@ -250,4 +250,5 @@
             # FAN IN SOURCE/FAN IN OUT CAN SHOW THE MULTIPLE BUS IN SINGLE LINE 
             # Referance only arrow for manual set referance only
 ## class-34 == (XY Grid setup, Reference no setup, Standard selection)
-            #
+            # first project setup properties -> drawing format need to enable x-y grid
+            # x-y grid ->horizontal to vertical or veritcal to horizontal
