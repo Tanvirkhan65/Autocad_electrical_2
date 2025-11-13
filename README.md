@@ -252,3 +252,5 @@
 ## class-34 == (XY Grid setup, Reference no setup, Standard selection)
             # first project setup properties -> drawing format need to enable x-y grid
             # x-y grid ->horizontal to vertical or veritcal to horizontal
+## class-35 == Libraries and Standard setup 
+            # schematic library setup -> select library first folder select
