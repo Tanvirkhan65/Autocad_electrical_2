@@ -255,4 +255,5 @@
 ## class-35 == Libraries and Standard setup 
             # schematic library setup -> select library first folder select ieee/nfpa
             # schematic icon menu file -> select the same ieee/nfpa
-            
+## CLASS-36 == ICON MENU & CATALOG BROWSER
+            # brows,scale,search icon,map icon to catalog
