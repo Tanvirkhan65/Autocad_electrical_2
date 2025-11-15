@@ -260,4 +260,4 @@
 ## class-37 == Insert Edit Component Dialog Box
             # component tag,description,catalog data,multiple catalog,Breaker rating or rating
 ## class-38 == Parent & Child Components, Project Specific Catlog Database, Equipment List
-            #
+            # cross referanceing of relay parent childs
