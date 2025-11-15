@@ -258,3 +258,4 @@
 ## CLASS-36 == ICON MENU & CATALOG BROWSER
             # brows,scale,search icon,map icon to catalog
 ## class-37 == Insert Edit Component Dialog Box
+            # component tag,description,catalog data,multiple catalog,Breaker rating or rating
