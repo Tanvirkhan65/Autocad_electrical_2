@@ -383,5 +383,5 @@
             # electrical Audit
             # toggle no/nc -> NC converted to no swich or reverse
             # wire tag setup
-            # schematic edit -> move component,scoot
+            # schematic edit -> move component,scoot,copy components
 
