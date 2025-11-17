@@ -384,4 +384,5 @@
             # toggle no/nc -> NC converted to no swich or reverse
             # wire tag setup
             # schematic edit -> move component,scoot,copy components,Align components,delete component
+            # components update from catalog tool
 
