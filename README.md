@@ -385,6 +385,6 @@
             # wire tag setup
             # schematic edit -> move component,scoot,copy components,Align components,delete component
             # components update from catalog tool
-            # surf tool -> # means panel layout symbol,P means parent C means child component,W means wire/wire related component
-            # 
+            # surf tool -> # means panel layout symbol,P means parent C means child component,W means wire/wire related component,src/dst
+            
 
