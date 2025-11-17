@@ -381,3 +381,4 @@
                         
                         ✔ এটা সাধারণত বড় প্রজেক্টে ঘটে।
             # electrical Audit
+            # toggle no/nc -> NC converted to no swich or reverse
