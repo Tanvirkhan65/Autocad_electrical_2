@@ -262,4 +262,121 @@
 ## class-38 == Parent & Child Components, Project Specific Catlog Database, Equipment List
             # cross referanceing of relay parent childs
 ## class-39 == Drawing Audit, Electrical Audit, Update Retag Tool, Toggle No/Nc, Schematic Editing
-            # Drawing Audit -> drawing Audit alawys check connection points,wire number,wire connetion
+            # Drawing Audit -> drawing Audit alawys check connection points,wire number,wire connetion,identifier,
+            1. Component Tag Errors (ট্যাগ/নেমিং সমস্যা)
+                        
+                        ডুপ্লিকেট ট্যাগ নাম (যেমন: দুটি relay "K1" নামে)
+                        
+                        মিসিং ট্যাগ (কোনো symbol আছে কিন্তু tag নেই)
+                        
+                        Wrong tag format (tag style অনুযায়ী না থাকা)
+                        
+                        Parent-child tag mismatch
+                        
+                        Coil এবং contact pair mismatch
+                        
+                        Unassigned component numbers
+                        
+                        ✔ ফল: রিপোর্টে দেখাবে কোন ডিভাইস conflict করছে, এবং Fix অপশন দিবে।
+                        
+                        ✅ 2. Wire Number Errors (ওয়্যার নাম্বার সমস্যা)
+                        
+                        Duplicate wire number on different nets
+                        
+                        Wire number missing
+                        
+                        Wire number overlapping
+                        
+                        Not following the wire number format
+                        
+                        Unused wire numbers
+                        
+                        ✔ Audit আপনাকে পুনরায় wire number update করতে বলবে বা auto-fix করবে।
+                        
+                        ✅ 3. Wire Connection Errors (কানেকশন সম্পর্কিত ভুল)
+                        
+                        দুইটা wire physically connected কিন্তু electrically connected না
+                        
+                        Disconnected wire segments
+                        
+                        Wire gap বা break
+                        
+                        Wrong source/destination signal
+                        
+                        Wire not touching component pins
+                        
+                        Wire sequence conflict
+                        
+                        ✔ এগুলো AutoCAD Electrical ইলেক্ট্রিক্যাল error হিসেবে দেখায়।
+                        
+                        ✅ 4. Block/Symbol Errors (সিম্বল বা ব্লক সমস্যা)
+                        
+                        Non-electrical block mistakenly placed in schematics
+                        
+                        Wrong attribute values
+                        
+                        Missing attributes
+                        
+                        Required attributes not filled
+                        
+                        External reference block errors
+                        
+                        ✔ Audit সাজেশন দেয় attribute update করার।
+                        
+                        ✅ 5. Project Database Errors (WD_M ডেটাবেস চেক)
+                        
+                        Drawing database corruption
+                        
+                        Project database inconsistencies
+                        
+                        Wrong cross-reference links
+                        
+                        Report table mismatch
+                        
+                        ✔ Audit database clean-up করে।
+                        
+                        ✅ 6. Cross-Reference Errors
+                        
+                        Coil এবং contact cross-reference ভুল
+                        
+                        Signal source missing
+                        
+                        Destination missing
+                        
+                        Parent and child symbol mismatch
+                        
+                        ✔ Auto-fix parent/child linking।
+                        
+                        ✅ 7. Ladder Reference Errors
+                        
+                        Ladder rung not recognized
+                        
+                        Wrong ladder reference numbering
+                        
+                        Missing rung tag
+                        
+                        Duplicate ladder numbers
+                        
+                        ✔ Fix Ladder tools ব্যবহার করতে বলে।
+                        
+                        ✅ 8. Panel Footprint Errors
+                        
+                        Footprint linked না
+                        
+                        BOM attribute missing
+                        
+                        Multi-part component link missing
+                        
+                        ✔ Audit এই error গুলো দেখায়।
+                        
+                        ✅ 9. Project Settings/ENV Errors
+                        
+                        Missing drawing properties
+                        
+                        Incorrect project settings
+                        
+                        Wrong template data
+                        
+                        Environment variables mismatch
+                        
+                        ✔ এটা সাধারণত বড় প্রজেক্টে ঘটে।
