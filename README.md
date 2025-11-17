@@ -262,4 +262,4 @@
 ## class-38 == Parent & Child Components, Project Specific Catlog Database, Equipment List
             # cross referanceing of relay parent childs
 ## class-39 == Drawing Audit, Electrical Audit, Update Retag Tool, Toggle No/Nc, Schematic Editing
-            # 
+            # Drawing Audit -> drawing Audit alawys check connection points,wire number,wire connetion
