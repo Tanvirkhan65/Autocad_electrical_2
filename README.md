@@ -389,5 +389,6 @@
             W means wire/wire related component,src/dst,
             freshen -> refresh
             pick new list,pan
+## class-40 == attributes edit
             
 
