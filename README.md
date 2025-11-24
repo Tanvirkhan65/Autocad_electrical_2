@@ -394,4 +394,5 @@
 ## class-42 == circuit builder tool
 ## class-43 == save circuit to icon menu, copy circuit, save & insert w block circuit
 ## class-44 == Connectors & Customize Connectors, Point to Point Connections
+            # insert connector -> insert all,allow spacer or brakes,at wire crossing,start connector as child
 
