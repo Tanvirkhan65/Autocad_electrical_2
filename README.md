@@ -398,4 +398,5 @@
             # details -> plug(male) & receptacle pin,plug/receptacle
             # pin list -> alphanumeric or number
             # insert splice -> jumper 
+            # connector orientation
 
