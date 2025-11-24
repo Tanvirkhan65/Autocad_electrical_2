@@ -390,8 +390,8 @@
             freshen -> refresh
             pick new list,pan
 ## class-40 == attributes edit
-## class-41 == symbol builder
-## class-42 == circuit builder
-## class-43 == insert connector/pin
-            
+## class-41 == Symbol Builder ,Icon menu Wizard
+## class-42 == circuit builder tool
+## class-43 == save circuit to icon menu, copy circuit, save & insert w block circuit
+## class-44 == Connectors & Customize Connectors, Point to Point Connections
 
