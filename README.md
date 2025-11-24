@@ -390,5 +390,8 @@
             freshen -> refresh
             pick new list,pan
 ## class-40 == attributes edit
+## class-41 == symbol builder
+## class-42 == circuit builder
+## class-43 == insert connector/pin
             
 
