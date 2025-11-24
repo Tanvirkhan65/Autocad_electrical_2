@@ -398,5 +398,5 @@
             # details -> plug(male) & receptacle pin,plug/receptacle
             # pin list -> alphanumeric or number
             # insert splice -> jumper 
-            # connector orientation
+            # connector orientation -> reverse,rotate,strech,split,add,delete,move,sawap connector 
 
