@@ -399,4 +399,4 @@
             # pin list -> alphanumeric or number
             # insert splice -> jumper 
             # connector orientation -> reverse,rotate,strech,split,add,delete,move,sawap connector 
-
+## class-45 == Footprint Edit,User Defined List, Equipment List Tools
