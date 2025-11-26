@@ -400,3 +400,4 @@
             # insert splice -> jumper 
             # connector orientation -> reverse,rotate,strech,split,add,delete,move,sawap connector 
 ## class-45 == Footprint Edit,User Defined List, Equipment List Tools
+## class-46 == configuration tool & Din Rail ,Footprint database editor
