@@ -191,7 +191,7 @@
             # wire number %N componet reference
 ## class-27 ==  (WIRE,TRIM WIRE,WIRE NO,EDIT WIRE NO, MULTIPLE BUS, STRETCH WIRE NO)
             # wire ->wire,wire degree,wire gap,(interconnected components)
-            # trim wire
+            # trim wire -> normal trim 1 by 1,select trim enter f or fin for select multiple wire select space for trim,select trim enter c for trim
             # multiple bus ->       empty space go horizontal
                                     empty space ho vertical in command f for wire flip
                                     components multiple wire(select point of components and drag)
