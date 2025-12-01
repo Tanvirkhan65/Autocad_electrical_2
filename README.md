@@ -401,4 +401,5 @@
             # connector orientation -> reverse,rotate,strech,split,add,delete,move,sawap connector 
 ## class-45 == Footprint Edit,User Defined List, Equipment List Tools
 ## class-46 == configuration tool & Din Rail ,Footprint database editor
-## cclass-47 == Parametric & Non-Parametric PLC
+## class-47 == Parametric & Non-Parametric PLC
+## class-48 == PLC Database Editor, I/O Utility Tool, Edit Tool
