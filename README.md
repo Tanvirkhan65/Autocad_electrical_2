@@ -394,6 +394,7 @@
 ## class-42 == circuit builder tool
 ## class-43 == save circuit to icon menu, copy circuit, save & insert w block circuit
 ## class-44 == Connectors & Customize Connectors, Point to Point Connections
+## cclass-45 == Parametric & Non-Parametric PLC
             # insert connector -> insert all,allow spacer or brakes,at wire crossing,start connector as child
             # details -> plug(male) & receptacle pin,plug/receptacle
             # pin list -> alphanumeric or number
