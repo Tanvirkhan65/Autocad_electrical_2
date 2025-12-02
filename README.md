@@ -404,4 +404,4 @@
 ## class-47 == Parametric & Non-Parametric PLC
 ## class-48 == PLC Database Editor, I/O Utility Tool, Edit Tool
 ## class-49 == Spreadsheet, Mark & Verify, Utility Tool
-## class-50 == mark and verify DWG,
+## class-50 == mark and verify DWG,Components details data import to xls,
