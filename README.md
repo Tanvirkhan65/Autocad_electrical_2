@@ -403,3 +403,4 @@
 ## class-46 == configuration tool & Din Rail ,Footprint database editor
 ## class-47 == Parametric & Non-Parametric PLC
 ## class-48 == PLC Database Editor, I/O Utility Tool, Edit Tool
+## class-49 == Spreadsheet, Mark & Verify, Utility Tool
