@@ -406,3 +406,5 @@
 ## class-49 == Spreadsheet, Mark & Verify, Utility Tool
 ## class-50 == mark and verify DWG,Components details data import to xls from spread sheet,to spread sheet
 ## class-51 == utility tool very important anything need to change can be done entire drawing
+
+## The REA command in AutoCAD is a shortcut for the REGENALL command, which regenerates the drawing and refreshes all viewports to reflect the most current changes.
